@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: home_carousel2
 title: Hi there!
+images:
+  - images/image1.jpg
+  - images/image2.jpg
 ---
 
 I'm a PhD student in Natural Language Processing at Universitat Pompeu Fabra, in Barcelona. This is my personal website, which I'll be using to keep track of my research & community activity (among other miscellaneous things). 
@@ -20,10 +23,11 @@ I am the president of [PyBCN](http://pybcn.org/), the `Barcelona Python Associat
 
 Also, I'm cofounder and coordinator of [PyladiesBCN](http://pybcn.org/pyladies-bcn/), a group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences and events.
 
-### Contact me!
+<!-- ### Contact me!
 
 * Email: lpmayos at gmail.com
 * GitHub: [https://github.com/lpmayos](https://github.com/lpmayos)
 * Twitter: [https://twitter.com/lpmayos](https://twitter.com/lpmayos)
 * LinkedIn: [https://www.linkedin.com/in/lpmayos](https://www.linkedin.com/in/lpmayos)
 
+ -->
