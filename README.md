@@ -1,4 +1,6 @@
 Source: [nicolas-van](https://github.com/nicolas-van/bootstrap-4-github-pages)
+<!-- Execute with: bundle exec jekyll serve -->
+<!-- Blog post: http://localhost:4000/2018/01/25/lpmayos-site-launched -->
 
 # Boostrap 4 Github Pages
 
