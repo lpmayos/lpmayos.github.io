@@ -16,7 +16,7 @@
 title: Laura Pérez-Mayos
 email: "lpmayos@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  Laura Pérez-Mayos personal website
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -31,8 +31,8 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - home
-  - cv
+  - index.html
+  - cv_lpmayos.pdf
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
