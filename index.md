@@ -3,6 +3,7 @@ layout: home_carousel2
 title: Hi there!
 images:
   - images/image1.jpg
+  - images/image3.jpg
   - images/image2.jpg
 ---
 
