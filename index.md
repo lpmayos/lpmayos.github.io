@@ -15,7 +15,7 @@ I'm a PhD student in Natural Language Processing at Universitat Pompeu Fabra, in
 
 * Deep Learning for natural language processing.
 * Natural language processing for social good.
-* Dependency parsing and its application to downstream applications.
+* Dependency parsing for downstream applications.
 
 
 ### Python!
