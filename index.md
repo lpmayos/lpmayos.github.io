@@ -13,9 +13,10 @@ I'm a PhD student in Natural Language Processing at Universitat Pompeu Fabra, in
 
 ### My research interests
 
+* Contextual word representations.
+* Linguistically-motivated evaluation metrics for syntactic dependency parsing.
 * Deep Learning for natural language processing.
 * Natural language processing for social good.
-* Dependency parsing for downstream applications.
 
 
 ### Python!
