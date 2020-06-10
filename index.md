@@ -13,23 +13,17 @@ I'm a PhD student in Natural Language Processing at Universitat Pompeu Fabra, in
 
 ### My research interests
 
-* Contextual word representations.
-* Linguistically-motivated evaluation metrics for syntactic dependency parsing.
-* Deep Learning for natural language processing.
+* Contextualized representations.
+* Linguistic abilities of Language Models.
+* Syntax and dependency parsing.
 * Natural language processing for social good.
 
 
 ### Python!
 
-I am the president of [PyBCN](http://pybcn.org/), the `Barcelona Python Association`. Our mission is to promote, educate and advance the local Python community through monthly meetups, practice sessions and specific events like PyDay and PyData.
+I am the president of [the `Barcelona Python Association`](http://pybcn.org/), PyBCN, and the cofounder and coordinator of [PyladiesBCN](http://pybcn.org/pyladies-bcn/), a group with a focus on helping more women become active participants and leaders in the Python open-source community.
 
-Also, I'm cofounder and coordinator of [PyladiesBCN](http://pybcn.org/pyladies-bcn/), a group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences and events.
 
-<!-- ### Contact me!
+### Photography
 
-* Email: lpmayos at gmail.com
-* GitHub: [https://github.com/lpmayos](https://github.com/lpmayos)
-* Twitter: [https://twitter.com/lpmayos](https://twitter.com/lpmayos)
-* LinkedIn: [https://www.linkedin.com/in/lpmayos](https://www.linkedin.com/in/lpmayos)
-
- -->
+Proud owner of a borrowed Nikon D70. Have a look at what I do in <a href="https://acontrallum.github.io" target="_blank">`acontrallum`</a>]! 
