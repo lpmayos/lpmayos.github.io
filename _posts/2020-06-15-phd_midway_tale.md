@@ -15,7 +15,7 @@ It is important for me to be able to see the big picture at all times, and thus 
 
 ### Designing bombproof experiments
 
-I have a software development background, which means I jump into code waaaay too early every single time. Don't do this. **Think first**. Then, think some more. Then draw an schema of your experiment. Write down your research question and hypothesis. Outline the steps that you will follow for the concrete experiment. Then, discuss it with your supervisor and other colleagues. Make sure everybody has the same picture in their minds, that everybody understand the goal and the procedure that you'll follow to pursue it. Make sure that there is a **single picture**, and everybody is visualizing it. Then, and only then, it is (finally!) time to code.  
+I have a software development background, which means I jump into code waaaay too early every single time. Don't do this. **Think first**. Then, think some more. Then draw an schema of your experiment. Write down your research question and hypothesis. Outline the steps that you will follow for the concrete experiment. Then, discuss it with your supervisor and other colleagues. Make sure everybody has the same picture in their minds, that everybody understands the goal and the procedure that you'll follow to pursue it. Make sure that there is a **single picture**, and everybody is visualizing it. Then, and only then, it is (finally!) time to code.  
 
 ### Getting your hands dirty
 
@@ -30,7 +30,7 @@ Great, results are generated. Hopefully, you did it the smart way and generated 
 
 ### Writing, a process 
 
-Yay! Results are looking good, and your hypothesis was right. There is a tale to be told Time to write! 
+Yay! Results are looking good, and your hypothesis was right. There is a tale to be told. Time to write! 
 
 Just to set my mind in writing mode, I start by writing a **draft abstract**. This forces me to think of how to clearly present the context, the problem I am tackling, why am I doing it, how, and what can I conclude. All in about 20 lines: a skeleton of the tale you are about to compile. This is important: you are telling a story for your readers, make it interesting!
 
@@ -47,4 +47,4 @@ Almost there. The work is pretty much done, all there is left is to **round the 
 
 ### And afterwards, what?
 
-Nothing. Seriously. You probably did not get much sleep on the last week, and spend too many night ours fixing code. Time to reset your mind and pay back the attention debt to your loved ones, including yourself. Go get a shower. Get a couple of days off (at least). **Eat ice-cream**. Have fun!  
+Nothing. Seriously. You probably did not get much sleep on the last week, and spend too many night hours fixing code. Time to reset your mind and pay back the attention debt to your loved ones, including yourself. Go get a shower. Get a couple of days off (at least). **Eat ice-cream**. Have fun!  
