@@ -2,6 +2,17 @@
 // Bootswatch
 
 
+body {
+    font-size: 1em;
+}
+
+article {
+    strong {
+        color: orange;
+    }
+}
+
+
 // Variables ===================================================================
 
 $web-font-path: "https://fonts.googleapis.com/css?family=Nunito+Sans:400,600" !default;
