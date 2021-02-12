@@ -13,9 +13,8 @@ I'm a PhD student in Natural Language Processing at Universitat Pompeu Fabra, in
 
 ### My research interests
 
-* Contextualized representations.
-* Linguistic abilities of Language Models.
-* Syntax and dependency parsing.
+* Syntactic capabilities of modern language models. 
+* Deep Learning for natural language processing. 
 * Natural language processing for social good.
 
 
