@@ -2,8 +2,8 @@
 layout: home_carousel2
 title: Hi there!
 images:
-  - images/image1.jpg
   - images/image3.jpg
+  - images/image1.jpg
   - images/image2.jpg
 ---
 
@@ -13,14 +13,14 @@ I'm a PhD student in Natural Language Processing at Universitat Pompeu Fabra, in
 
 ### My research interests
 
-* Syntactic capabilities of modern language models. 
+* Syntactic capabilities of autoencoding language models. 
 * Deep Learning for natural language processing. 
 * Natural language processing for social good.
 
 
 ### Python!
 
-I am the president of [the `Barcelona Python Association`](http://pybcn.org/), PyBCN, and the cofounder and coordinator of [PyladiesBCN](http://pybcn.org/pyladies-bcn/), a group with a focus on helping more women become active participants and leaders in the Python open-source community.
+I am the president of [the `Barcelona Python Association`](http://pybcn.org/), PyBCN, and the cofounder and coordinator of [PyladiesBCN](http://pybcn.org/pyladies-bcn/), a group with a mission to promote, educate and advance a diverse Python community through outreach, education, conferences and events.
 
 
 ### Photography
