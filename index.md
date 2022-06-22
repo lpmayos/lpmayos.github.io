@@ -11,7 +11,7 @@ I'm a Doctor in Natural Language Processing from Pompeu Fabra University, Barcel
 
 I am the president of <a href="http://pybcn.org" target="_blank">the `Barcelona Python Association`</a>, PyBCN, and the cofounder and coordinator of <a href="http://pybcn.org/pyladies_bcn" target="_blank">PyladiesBCN</a>, a group with a mission to promote, educate and advance a diverse Python community through outreach, conferences and events.
 
-Proud owner of a borrowed 📷 Nikon D70. Have a look at what I do in <a href="https://acontrallum.github.io" target="_blank">`acontrallum`</a>. 
+Proud owner of a borrowed 📷 Nikon D70. Have a look at what I do in <a href="https://acontrallum.github.io" target="_blank">`acontrallum`</a>. <br/><br/>
 
 
 ### Contact me!
